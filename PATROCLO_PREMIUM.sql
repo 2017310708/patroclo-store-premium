@@ -10,7 +10,7 @@ CREATE TABLE `categorias` (
 );
 
 CREATE TABLE `subcategorias` (
-  `id_subcategoria` int,
+  `id_subcategoria` int PRIMARY KEY,
   `id_categoria` int,
   `nombre` varchar(255),
   `imagen_url` TEXT,
@@ -46,7 +46,7 @@ CREATE TABLE `proveedores` (
 
 CREATE TABLE `proveedor_contactos` (
   `id_proveedor_contacto` int PRIMARY KEY,
-  `id_proveedor` numbr,
+  `id_proveedor` int,
   `nombre` varchar(255),
   `apellido_paterno` varchar(255),
   `apellido_materno` varchar(255),

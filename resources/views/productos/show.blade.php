@@ -20,8 +20,10 @@
                              x-transition:enter="transition ease-out duration-300"
                              x-transition:enter-start="opacity-0 transform scale-90"
                              x-transition:enter-end="opacity-100 transform scale-100"
-                             class="aspect-w-4 aspect-h-3">
-                            <img src="{{ $imagen->imagen_url }}" alt="{{ $producto->nombre }}" class="object-cover rounded-lg shadow-lg">
+                             class="relative w-full pt-[75%]">
+                            <img src="{{ $imagen->imagen_url }}" 
+                                 alt="{{ $producto->nombre }}" 
+                                 class="absolute inset-0 w-full h-full object-contain rounded-lg shadow-lg">
                         </div>
                     @endforeach
 
