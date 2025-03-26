@@ -188,7 +188,7 @@ VALUES
 (3, 5, 3, null, 'PRO-X', 'Logitech G Pro X Mechanical Gaming Keyboard', 'Teclado mecánico profesional para gaming', 'Switches GX Blue Clicky, RGB, Diseño TKL', 129.99, 20, 'https://resource.logitechg.com/w_1600,c_limit,
 q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/pro-x-keyboard/pro-x-keyboard-gallery-1.
 png?v=1', 'https://www.logitechg.com/en-us/products/gaming-keyboards/pro-x-gaming-keyboard.html', 'A', CURRENT_TIMESTAMP),
-(4, 2, 1, null, 'ROG-STRIX-GT35', 'ASUS ROG Strix GT35', 'PC Gaming de alto rendimiento', 'Intel Core i9-13900K, RTX 4090, 64GB RAM, 2TB NVMe SSD', 3999.99, 5, 'https://dlcdnwebimgs.asus.com/gain/4B59F70A-32D0-4D99-BF87-9ED19AD0C1FA', 'https://rog.asus.com/desktop-pcs/rog-strix/rog-strix-gt35-series/', 'A', CURRENT_TIMESTAMP),
+(4, 2, 1, null, 'ROG-STRIX-GT35', 'ASUS ROG Strix GT35', 'PC Gaming de alto rendimiento', 'Intel Core i9-13900K, RTX 4090, 64GB RAM, 2TB NVMe SSD', 3999.99, 5, 'https://media.icdn.hu/product/GalleryMod/2022-04/757200/resp/1835306_asus-rog-strix-gt35-g35cg-1190kf081w-fekete.webp', 'https://rog.asus.com/desktop-pcs/rog-strix/rog-strix-gt35-series/', 'A', CURRENT_TIMESTAMP),
 (5, 6, 3, null, 'G502-HERO', 'Logitech G502 HERO', 'Mouse gaming de alto rendimiento', 'Sensor HERO 25K, 11 botones programables, RGB, Pesos ajustables', 79.99, 30, 'https://resource.logitechg.com/w_692,c_limit,q_auto,f_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/g502-hero/g502-hero-gallery-1.png', 'https://www.logitechg.com/en-us/products/gaming-mice/g502-hero-gaming-mouse.html', 'A', CURRENT_TIMESTAMP),
 (6, 7, 4, null, 'O365-HOME', 'Microsoft 365 Family', 'Suite ofimática completa para toda la familia', '6 usuarios, Word, Excel, PowerPoint, 1TB OneDrive por usuario', 99.99, 100, 'https://oechsle.vteximg.com.br/arquivos/ids/17506128-1000-1000/imageUrl_1.jpg?v=638506072976500000', 'https://www.microsoft.com/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm', 'A', CURRENT_TIMESTAMP),
 (7, 4, 5, null, 'RYZEN-7800X3D', 'AMD Ryzen 7 7800X3D', 'Procesador gaming de alto rendimiento con tecnología 3D V-Cache', 'AMD Zen 4, 8 núcleos/16 hilos, 5.0GHz Max Boost, 104MB Cache Total, Socket AM5', 449.99, 15, 'https://www.sercoplus.com/56782-large_default/procesador-amd-ryzen-7-7800x3d.jpg', 'https://www.amd.com/en/products/cpu/amd-ryzen-7-7800x3d', 'A', CURRENT_TIMESTAMP),
@@ -207,7 +207,7 @@ VALUES
 (8, 3, 'https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/pro-x-keyboard/pro-x-keyboard-gallery-3.png?v=1', 'A', CURRENT_TIMESTAMP),
 (9, 3, 'https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/
 gaming/en/products/pro-x-keyboard/pro-x-keyboard-gallery-2.png?v=1', 'A', CURRENT_TIMESTAMP),
-(10, 4, 'https://dlcdnwebimgs.asus.com/gain/4B59F70A-32D0-4D99-BF87-9ED19AD0C1FA', 'A', CURRENT_TIMESTAMP),
+(10, 4, 'https://media.icdn.hu/product/GalleryMod/2022-04/757200/resp/1835306_asus-rog-strix-gt35-g35cg-1190kf081w-fekete.webp', 'A', CURRENT_TIMESTAMP),
 (11, 4, 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUDcI0SH34Dt5S5_62lOYi0JNmnYoBnRiqHg&s', 'A', CURRENT_TIMESTAMP),
 (12, 4, 'https://dlcdnwebimgs.asus.com/files/media/E6B9B94F-F16B-47C2-81B3-02E598DD6FEB/v4//images/video/thermal_1x.jpg', 'A', CURRENT_TIMESTAMP),
 (13, 5, 'https://resource.logitechg.com/w_692,c_limit,q_auto,f_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/g502-hero/g502-hero-gallery-1.png', 'A', CURRENT_TIMESTAMP),

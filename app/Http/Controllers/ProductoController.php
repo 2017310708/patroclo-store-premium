@@ -19,4 +19,10 @@ class ProductoController extends Controller
         $producto->load(['marca', 'imagenes']);
         return view('productos.show', compact('producto'));
     }
-} 
+
+    public function todos()
+    {
+        $productos = Producto::where('estado_auditoria', 'A')->get();
+        return view('todos-productos', compact('productos'));
+    }
+}

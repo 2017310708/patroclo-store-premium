@@ -1,12 +1,12 @@
 <div class="flex bg-orange-500 justify-center gap-3 h-[50px] items-center text-white font-semibold">
     <div class="hover:bg-orange-600 p-1 rounded cursor-pointer">
-        <a href="http://127.0.0.1:8000/categorias">Inicio</a>
+        <a href="{{ route('categorias.index') }}">Inicio</a>
     </div>
     <div class="hover:bg-orange-600 p-1 rounded cursor-pointer">
-        Productos
+        <a href="{{ route('productos.todos') }}">Productos</a>
     </div>
     <div class="hover:bg-orange-600 p-1 rounded cursor-pointer">
-        Marcas
+        <a href="{{ route('marcas.index') }}">Marcas</a>
     </div>
     <div class="hover:bg-orange-600 p-1 rounded cursor-pointer">
         Carrito
