@@ -1,4 +1,8 @@
-# patroclo-store-premiun
+Alumno: Jose Carlos Yon
+
+[Video demo](https://youtu.be/-DaYburZewE)
+
+# patroclo-store-premium
  Pagina Web con el curso de taller de programacion Web Laravel
 
 # requisitos
